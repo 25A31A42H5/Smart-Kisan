@@ -1,0 +1,8 @@
+{
+  "name": "AgriVoice AI Advisor",
+  "description": "A comprehensive AI-driven agricultural platform providing real-time advice on climate, soil, market prices, and news via a localized voice interface.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
